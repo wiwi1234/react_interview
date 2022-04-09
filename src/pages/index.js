@@ -6,9 +6,10 @@ const Home = () => {
 		<>
 			<main>
 				<h2>HOME</h2>
+				<h1>Hi Candidate：）</h1>
 			</main>
 			<nav>
-				<Link to="/about">About</Link>
+				<Link to="/interview">Interview</Link>
 			</nav>
 		</>
 	)
