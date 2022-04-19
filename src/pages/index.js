@@ -5,7 +5,6 @@ const Home = () => {
 	return (
 		<>
 			<main>
-				<h2>HOME</h2>
 				<h1>Hi Candidate：）</h1>
 			</main>
 			<nav>
